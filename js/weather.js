@@ -1,4 +1,4 @@
-var json_url = "http://api.openweathermap.org/data/2.5/weather?q=Paris,fra&appid=a70d956581f575b02ad518684afb6c13";
+var json_url = "http://api.openweathermap.org/data/2.5/weather?q=Turan,vn&appid=9356ac405c9b623ce3b250aaca11c9d3";
 var city;
 var temp_curr;
 var temp_low;
