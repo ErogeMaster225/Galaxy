@@ -1,4 +1,4 @@
-var json_url = "http://api.openweathermap.org/data/2.5/weather?q=Turan,vn&appid=9356ac405c9b623ce3b250aaca11c9d3";
+var json_url = "http://api.openweathermap.org/data/2.5/weather?q=Danang,vn&appid=9356ac405c9b623ce3b250aaca11c9d3";
 var city;
 var temp_curr;
 var temp_low;
